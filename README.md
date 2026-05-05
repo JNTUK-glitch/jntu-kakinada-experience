@@ -1,6 +1,6 @@
 # My JNTU Kakinada Experience — 7 Attempts, Still No Degree
 
-I joined a JNTU Kakinada affiliated college in 2020 as a B.Tech (CSE) student, believing it would be a turning point in my life.
+I joined a JNTU Kakinada affiliated college in 2020 as a B.Tech student, believing it would be a turning point in my life.
 
 In the beginning, everything felt exciting — like a mix of technology, innovation, and opportunity. Subjects like programming, mathematics, and applied physics gave me hope that I was building a future.
 
