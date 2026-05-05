@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jntuk-glitch.github.io/jntu-kakinada-experience/sitemap.xml
